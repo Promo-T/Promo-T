@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, my name is Szymon 👋
 
-<!--
-**Promo-T/Promo-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am second year Cybersecurity student at Wrocław University of Science and Technology
 
-Here are some ideas to get you started:
+🔐 Currently I'm working on my penetration testing and networking skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Actively participating in CTF competitions and solving HackTheBox
+
+
+📫 **Email:** komar.szym@gmail.com
+
+🔗 **LINKS**
+
+[HackTheBox](https://profile.hackthebox.com/profile/019cb381-a5f4-70a6-8a44-e63bd8e3dd10)
+
+[TryHackMe](https://tryhackme.com/p/Promo1324)
