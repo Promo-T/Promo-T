@@ -2,7 +2,7 @@
 
 🎓 I am second year Cybersecurity student at Wrocław University of Science and Technology
 
-🔐 Currently I'm working on my penetration testing and networking skills
+🔐 Currently I'm working on my penetration testing, networking skills and on SIEM / Log Analisys
 
 🎯 Actively participating in CTF competitions and solving HackTheBox
 
